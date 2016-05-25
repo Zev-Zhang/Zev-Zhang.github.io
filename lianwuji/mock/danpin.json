@@ -1,0 +1,49 @@
+{
+ "ret":true,
+ "errorCode":0,
+ "errorMsg":"",
+ "data":[
+    {
+    	"img":"/lianwuji/images/danpin01.png",
+    	"shopname":"设计猫 美国 KIKKERLANDlang",
+    	 "price":"￥85.00",
+       "zan":"125"
+    },
+    {
+      "img":"/lianwuji/images/danpin02.png",
+      "shopname":"设计猫 韩国设计 环保USB优盘",
+       "price":"￥197.00",
+       "zan":"111"
+    },
+    {
+      "img":"/lianwuji/images/danpin03.png",
+      "shopname":"设计猫 韩国设计 超人蝙蝠侠大战",
+       "price":"￥43.00",
+       "zan":"105"
+    },
+    {
+      "img":"/lianwuji/images/danpin04.png",
+      "shopname":"设计猫More U盘8G卡通可收缩",
+       "price":"￥68.00",
+       "zan":"123"
+    },
+    {
+      "img":"/lianwuji/images/danpin05.png",
+      "shopname":"纽扣式小桌日式北欧乡村风格简约",
+       "price":"￥490.00",
+       "zan":"310"
+    },
+    {
+      "img":"/lianwuji/images/danpin06.png",
+      "shopname":"宜家茶几几圆几简约角几边",
+       "price":"108.00",
+       "zan":"118"
+    },
+    {
+      "img":"/lianwuji/images/danpin07.png",
+      "shopname":"星巴克正品代购限量安娜苏",
+       "price":"238.00",
+       "zan":"119"
+    }
+ ]
+}

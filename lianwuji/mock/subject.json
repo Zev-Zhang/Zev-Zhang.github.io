@@ -1,0 +1,35 @@
+{
+"ret":true,
+"errorCode":0,
+"errorMsg":"",
+ "data":[
+    {
+    	"img":"/lianwuji/images/zhuangti1.png",
+    	"title":"潮流美学"
+    },
+    {
+    	"img":"/lianwuji/images/zhuangti2.png",
+    	"title":"家居风格"
+    },
+    {
+    	"img":"/lianwuji/images/zhuangti3.png",
+    	"title":"生活情调"
+    },
+    {
+    	"img":"/lianwuji/images/zhuangti4.png",
+    	"title":"名品推荐"
+    },
+    {
+    	"img":"/lianwuji/images/zhuangti5.png",
+    	"title":"实用指南"
+    },
+    {
+    	"img":"/lianwuji/images/zhuangti6.png",
+    	"title":"热点追击"
+    }
+
+
+
+ ]
+}
+
